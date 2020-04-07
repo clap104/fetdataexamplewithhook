@@ -1,8 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
-In the project directory, you can run:
+Refer: https://levelup.gitconnected.com/fetch-an-api-with-react-hooks-79d509a052a0
 
 ### `yarn start`
 
